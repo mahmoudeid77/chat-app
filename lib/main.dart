@@ -9,7 +9,7 @@ Future<void> main()async {
   ); 
   runApp(const ScholarChat());
 }
-
+//comment 1
 class ScholarChat extends StatelessWidget {
   const ScholarChat({super.key});
 
